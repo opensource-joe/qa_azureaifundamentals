@@ -2,7 +2,7 @@
 
 TODO: Follow videos and create a Chat Bot
 
-[GitHub reposity for ChatBot](https://github.com/cloudacademy/azure-chatbot)
+[GitHub repository for ChatBot](https://github.com/cloudacademy/azure-chatbot)
 
 ## AI Services in Azure
 - Azure Bot Service
