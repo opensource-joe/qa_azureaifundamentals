@@ -1,7 +1,5 @@
 # Building a Chatbot on Azure
 
-TODO: Follow videos and create a Chat Bot
-
 [GitHub repository for ChatBot](https://github.com/cloudacademy/azure-chatbot)
 
 ## AI Services in Azure
