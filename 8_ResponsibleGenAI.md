@@ -43,8 +43,27 @@ MS recommends a four-stage process when developing a GenAI application.
     - Can also build in a message filter to not display bad information to users.
 
 4. Operate the solution responsibly
-- 
+- Review compliance requirements.
+- Create a way for users to give feedback.
+- Create a way to block harmful responses when they are reported.
+- Create a way to block users or applications that are abusing the system.
+- Create an incident response plan.
+- Create a rollback plan.
+- Create a monitoring system.
+- Release the application to a small subset of users before releasing it broadly.
 
 ## Azure OpenAI Demo
+Create filters to allow or block specific types of content.
+
+Use data files to populate Chatbot based on own data.
 
 ### Test
+1. If you ensure that your AI application can be accessed by people with impaired vision, which principle are you following? Inclusiveness
+
+2. What are two Azure OpenAI features you can use to automatically add information to user prompts? Use your own data, System prompt
+
+3. Which is these is not one of the four stages in MS's recommended process for developing and implementing responsible AI when using generative models? Eliminate potential harms
+
+### Additional Coursework
+- [Understand text analytics](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics)
+- [Introduction to GenAI concepts](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)
